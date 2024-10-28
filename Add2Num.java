@@ -9,5 +9,6 @@ public class Add2Num {
     int num2 = sc.nextInt();
     int sum = num1 + num2;
     System.out.println("The Sum is: " + sum);
+    sc.close();
   }
 }
