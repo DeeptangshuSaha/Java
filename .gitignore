@@ -1,3 +1,5 @@
 /tempCodeRunnerFile.java
 *.class
 out/
+.idea/
+.cph/
